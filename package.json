@@ -1,0 +1,15 @@
+{
+  "name": "rah-setup",
+  "version": "1.0.0",
+  "description": "rah8733's gaming setup website",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build needed for vanilla JS project'"
+  },
+  "keywords": ["setup", "gaming"],
+  "author": "rah8733",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
