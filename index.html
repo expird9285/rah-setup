@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Setup</title>
+    <!-- 폰트 및 아이콘 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- 스타일 및 스크립트 -->
+    <link rel="stylesheet" href="style-glass.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="app.js" defer></script>
+</head>
+
+<body>
+
+    <div class="background-glow"></div>
+
+    <nav class="navbar">
+        <div class="nav-brand">
+            <i class="fa-solid fa-ghost"></i> SETUPS
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- 헤더 섹션 -->
+        <header class="header-section">
+            <h1 class="title">Rigs <span class="highlight">Setups</span></h1>
+        </header>
+
+        <!-- 탭 버튼 -->
+        <div class="tab-wrapper">
+            <div class="tab-bg" id="tabBg"></div>
+            <button class="tab-btn active" data-tab="gears">
+                <i class="fa-solid fa-layer-group"></i> Gears
+            </button>
+            <button class="tab-btn" data-tab="pc">
+                <i class="fa-solid fa-microchip"></i> System
+            </button>
+            <button class="tab-btn" data-tab="games">
+                <i class="fa-solid fa-gamepad"></i> Games
+            </button>
+        </div>
+
+        <!-- 컨텐츠 영역 -->
+        <div class="content-area">
+
+            <!-- [탭 1] GEARS -->
+            <div id="gears" class="tab-content active">
+
+                <!-- 소프트웨어 스택 (자동 생성) -->
+                <div class="grid-section">
+                    <div class="section-header">
+                        <h2><i class="fa-solid fa-code"></i> Link</h2>
+                    </div>
+                    <div class="software-grid" id="container-software"></div>
+                </div>
+
+                <!-- 키보드 (자동 생성) -->
+                <div class="grid-section">
+                    <div class="section-header">
+                        <h2><i class="fa-solid fa-keyboard"></i> Keyboards</h2>
+                    </div>
+                    <div class="bento-grid" id="container-keyboards"></div>
+                </div>
+
+                <!-- 마우스 (자동 생성) -->
+                <div class="grid-section">
+                    <div class="section-header">
+                        <h2><i class="fa-solid fa-computer-mouse"></i> Mice</h2>
+                    </div>
+                    <div class="bento-grid" id="container-mice"></div>
+                </div>
+
+                <!-- 오디오 및 모니터 (자동 생성) -->
+                <div class="grid-section">
+                    <div class="section-header">
+                        <h2><i class="fa-solid fa-tv"></i> A/V</h2>
+                    </div>
+                    <div class="bento-grid" id="container-av"></div>
+                </div>
+
+                <!-- 심레이싱 (자동 생성) -->
+                <div class="grid-section">
+                    <div class="section-header">
+                        <h2><i class="fa-solid fa-flag-checkered"></i> Sim Rig</h2>
+                    </div>
+                    <div class="bento-grid racing-grid" id="container-racing"></div>
+                </div>
+
+                <!-- 디스코드/스포티파이 상태창 -->
+                <div class="grid-section">
+                    <div class="bento-grid">
+                        <div class="card spotlight wide" id="discord-card">
+                            <div class="card-content row status-row">
+                                <div class="status-image-wrapper">
+                                    <img id="discord-image" src="https://cdn.discordapp.com/embed/avatars/0.png"
+                                        alt="Status">
+                                    <div id="status-indicator" class="status-dot gray"></div>
+                                </div>
+                                <div class="card-text" style="flex: 1;">
+                                    <span class="brand" id="status-header">OFFLINE</span>
+                                    <h3 id="status-title">Loading...</h3>
+                                    <p class="desc" id="status-artist">Connecting...</p>
+                                    <div class="progress-bar-container" id="spotify-progress" style="display: none;">
+                                        <div class="progress-bar-fill"></div>
+                                    </div>
+                                </div>
+                                <div class="icon-bg" id="status-icon"><i class="fa-brands fa-discord"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- [탭 2] PC SYSTEM -->
+            <div id="pc" class="tab-content">
+                <div class="pc-dashboard" id="container-pc">
+                    <!-- 자바스크립트가 채워넣음 -->
+                </div>
+
+                <!-- 갤러리 섹션 (자동 추가) -->
+                <div class="gallery-section">
+                    <div class="section-header" style="margin-top: 3rem;">
+                        <h2><i class="fa-solid fa-camera"></i> Gallery</h2>
+                        <button id="gallery-toggle" class="gallery-toggle-btn" title="Toggle Animation">
+                            <i class="fa-solid fa-pause"></i>
+                        </button>
+                    </div>
+                    <div class="gallery-viewport">
+                        <div class="gallery-track" id="gallery-track"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- [탭 3] GAMES -->
+            <div id="games" class="tab-content">
+                <div class="games-grid" id="container-games">
+                    <!-- 자바스크립트가 채워넣음 -->
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <div id="modal-overlay" class="modal-overlay">
+        <div class="modal-window">
+            <button id="modal-close" class="modal-close-btn"><i class="fa-solid fa-xmark"></i></button>
+
+            <div class="modal-body">
+                <div class="modal-img-wrapper">
+                    <img id="modal-img" src="" alt="">
+                </div>
+                <div class="modal-info">
+                    <span id="modal-brand" class="brand">BRAND</span>
+                    <h2 id="modal-title">Product Name</h2>
+                    <p id="modal-desc">Description goes here...</p>
+
+                    <a id="modal-link" href="#" target="_blank" class="modal-action-btn">
+                        Link <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>Made by Gemini and Claude lmfao</p>
+    </footer>
+</body>
+
+</html>

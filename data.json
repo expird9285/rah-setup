@@ -1,0 +1,361 @@
+{
+    "SITE_CONFIG": {
+        "discordId": "949203793441075220"
+    },
+    "SOFTWARE_DATA": [
+        {
+            "icon": "fa-brands fa-k",
+            "name": "Krunker.io Profile",
+            "link": "https://krunker.io/social.html?p=profile&q=RAH_8733"
+        },
+        {
+            "icon": "fa-solid fa-user",
+            "name": "Guns.lol page",
+            "link": "https://guns.lol/rah_8733"
+        },
+        {
+            "icon": "fa-brands fa-steam",
+            "name": "Steam",
+            "link": "https://steamcommunity.com/profiles/76561199177513914/"
+        },
+        {
+            "icon": "fa-brands fa-discord",
+            "name": "Discord",
+            "link": "https://discord.com/users/949203793441075220"
+        }
+    ],
+    "GEAR_DATA": [
+        {
+            "category": "keyboards",
+            "brand": "GEONWORKS",
+            "name": "VENOM 60HE",
+            "image": "images/venom60he.png",
+            "link": "https://smartstore.naver.com/geonlab/category/baf122ce7c77481aa91a6e69fd05194c?cp=1",
+            "size": "standard",
+            "desc": "- RAW HE Switch\n- 7U PCB\n- Tofu60 Redux Housing",
+            "pinned": true
+        },
+        {
+            "category": "keyboards",
+            "brand": "Swagkeys",
+            "name": "Transition Lite",
+            "image": "images/tranlite_till.png",
+            "link": "https://www.swagkey.kr/1816928659/?idx=860",
+            "size": "standard",
+            "desc": "- 8K MX PCB\n- ET Studio Winter Angler keycaps\n- Vertex V1\n- WS V3.1 Stabilizer",
+            "pinned": true
+        },
+        {
+            "category": "keyboards",
+            "brand": "GMK",
+            "name": "GMK67",
+            "image": "images/gmk.png",
+            "link": "https://ko.aliexpress.com/item/1005004981704493.html",
+            "size": "standard",
+            "desc": " "
+        },
+        {
+            "category": "keyboards",
+            "brand": "SKYLOONG",
+            "name": "SK61",
+            "image": "images/sk61.png",
+            "link": "hhttps://skyloongtech.com/skyloong-sk61/",
+            "size": "standard",
+            "desc": " "
+        },
+        {
+            "category": "keyboards",
+            "brand": "AULA",
+            "name": "F87 Pro",
+            "image": "images/f87.png",
+            "link": "https://smartstore.naver.com/funkeys/products/10609128283",
+            "size": "standard",
+            "desc": " "
+        },
+        {
+            "category": "mice",
+            "brand": "Endgame Gear",
+            "name": "OP1 8K",
+            "image": "images/op18k.png",
+            "link": "",
+            "size": "standard",
+            "desc": "",
+            "pinned": true
+        },
+        {
+            "category": "mice",
+            "brand": "WLmouse",
+            "name": "Beast X",
+            "image": "images/beastx.png",
+            "link": "",
+            "size": "standard",
+            "desc": " ",
+            "pinned": true
+        },
+        {
+            "category": "mice",
+            "brand": "WALLHACK",
+            "name": "SP-004 Faith Yume",
+            "image": "images/faithyume.png",
+            "link": "https://wallhack.com/ko-kr/pages/museum",
+            "size": "standard",
+            "desc": "#2836 / 4000"
+        },
+        {
+            "category": "mice",
+            "brand": "VXE",
+            "name": "R1 PRO MAX",
+            "image": "images/r1.png",
+            "link": "https://www.coupang.com/np/search?q=vxe%20r1%20pro%20max&channel=recent&traceId=mkat1m4u",
+            "size": "standard",
+            "desc": " "
+        },
+        {
+            "category": "mice",
+            "brand": "HyperX",
+            "name": "Pulsefire Haste Wireless",
+            "image": "images/hyperxhaste.png",
+            "link": "https://row.hyperx.com/products/hyperx-pulsefire-haste-wireless?variant=40910060978381",
+            "size": "standard",
+            "desc": " "
+        },
+        {
+            "category": "mice",
+            "brand": "RAZER",
+            "name": "viper Mini",
+            "image": "images/vipermini.png",
+            "link": "",
+            "size": "standard",
+            "desc": " "
+        },
+        {
+            "category": "mice",
+            "brand": "Logitech",
+            "name": "G304",
+            "image": "images/g304.png",
+            "link": " ",
+            "size": "standard",
+            "desc": " "
+        },
+        {
+            "category": "mice",
+            "brand": "Kanami",
+            "name": "Minami",
+            "image": "images/minami.png",
+            "link": "https://kanami.gg/products/minami",
+            "size": "standard",
+            "desc": "#0932",
+            "pinned": true
+        },
+        {
+            "category": "keyboards",
+            "brand": "SayoDevice",
+            "name": "O3C",
+            "image": "images/sayodevice.png",
+            "link": " ",
+            "size": "small",
+            "desc": " "
+        },
+        {
+            "category": "av",
+            "brand": "Samsung",
+            "name": "Odyssey G4 (25\")",
+            "desc": "LS25BG400",
+            "image": "images/g4.png",
+            "link": "https://www.samsung.com/sec/monitors/gaming-ls25bg400ekxkr-d2c/LS25BG400EKXKR/",
+            "size": "standard",
+            "pinned": true
+        },
+        {
+            "category": "av",
+            "brand": "ACTIVO x DITA",
+            "name": "Q1",
+            "image": "images/q1.png",
+            "link": "https://www.activostyle.com/ko/q1",
+            "size": "standard",
+            "desc": " ",
+            "pinned": true
+        },
+        {
+            "category": "av",
+            "brand": "Fiio",
+            "name": "FA1",
+            "image": "images/fa1.png",
+            "link": "https://www.fiio.com/fa1",
+            "size": "standard",
+            "desc": " "
+        },
+        {
+            "category": "av",
+            "brand": "Moondrop",
+            "name": "KATO",
+            "image": "images/kato.png",
+            "link": "https://thegrabsound.com/product/%EC%88%98%EC%9B%94%EC%9A%B0-kato-%EC%B9%B4%ED%86%A0-%EB%8F%85%EC%9E%90%EA%B0%9C%EB%B0%9C-ult-3%EC%84%B8%EB%8C%80-dlc-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84/4294/",
+            "size": "standard",
+            "desc": " "
+        },
+        {
+            "category": "av",
+            "brand": "ifi",
+            "name": "Zen DAC 3",
+            "image": "images/zendac3.png",
+            "link": "https://www.schezade.co.kr/goods/g_detail.html?gid=5806",
+            "size": "standard",
+            "desc": " ",
+            "pinned": true
+        },
+        {
+            "category": "av",
+            "brand": "Samsung",
+            "name": "Odyssey G5 (32\")",
+            "desc": "LS32CG554",
+            "image": "images/g5.png",
+            "link": "https://www.samsung.com/sec/monitors/gaming-ls32cg554ekxkr-d2c/LS32CG554EKXKR/",
+            "size": "standard"
+        },
+        {
+            "category": "av",
+            "brand": "HyperX",
+            "name": "Cloud Stinger Core - Wireless",
+            "desc": " ",
+            "link": "https://row.hyperx.com/ko/products/hyperx-cloud-stinger-core-wireless-ps",
+            "size": "small"
+        },
+        {
+            "category": "racing",
+            "brand": "SIMAGIC",
+            "name": "Alpha Mini Base",
+            "image": "images/simagicalphamini.png",
+            "link": "https://rera24.cafe24.com/product/%ED%95%A0%EC%9D%B8-%EC%83%81%ED%92%88-%EC%8B%AC%EB%A7%A4%EC%A7%81-simagic-alpha-mini-dd%ED%9C%A0%EB%B2%A0%EC%9D%B4%EC%8A%A4/27/category/24/display/1/",
+            "floatImage": true,
+            "desc": " "
+        },
+        {
+            "category": "racing",
+            "brand": "SIMAGIC",
+            "name": "GT NEO Steering wheel",
+            "image": "images/simagicgtneo.png",
+            "link": "https://rera24.cafe24.com/product/simagic-gt-neo-%EC%8A%A4%ED%8B%B0%EC%96%B4%EB%A7%81-%ED%9C%A0/58/category/24/display/1/",
+            "floatImage": true,
+            "desc": " "
+        },
+        {
+            "category": "racing",
+            "brand": "MOZA",
+            "name": "SR-P Pedals",
+            "image": "images/mozasrp.png",
+            "link": "https://gtgear.co.kr/product/moza-sr-p-%EB%A1%9C%EB%93%9C%EC%85%80-%ED%8E%98%EB%8B%AC-100kg-16%EB%B9%84%ED%8A%B8-%EB%A0%88%EC%9D%B4%EC%8B%B1-%ED%9C%A0/3969/",
+            "floatImage": true,
+            "desc": " "
+        },
+        {
+            "category": "racing",
+            "brand": "SIMAGIC",
+            "name": "Kill Switch",
+            "image": "images/simagic_killswitch.png",
+            "link": "https://rera24.cafe24.com/product/%EC%8B%AC%EB%A7%A4%EC%A7%81-simagic-alpha-%EC%95%8C%ED%8C%8C-%EC%97%90%EB%B3%B4-%ED%9C%A0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%82%AC-%EC%8A%A4%EC%9C%84%EC%B9%98/76/category/24/display/1/",
+            "floatImage": true,
+            "desc": " "
+        }
+    ],
+    "PC_SPECS": [
+        {
+            "label": "CPU",
+            "value": "i9-13900KF",
+            "icon": "fa-brands fa-amd",
+            "main": true
+        },
+        {
+            "label": "GPU",
+            "value": "MSI RTX 4090",
+            "sub": "SUPRIM",
+            "icon": "fa-brands fa-nvidia",
+            "main": true
+        },
+        {
+            "key": "RAM",
+            "value": "G.SKILL Trident Z NEO 16x2 GB"
+        },
+        {
+            "key": "M/B",
+            "value": "ROG STRIX Z690-A GAMING WIFI"
+        },
+        {
+            "key": "Storage",
+            "value": "SK Hynix Gold P31 1TB"
+        },
+        {
+            "key": "PSU",
+            "value": "Seasonic Focus Gold GX 1000W"
+        },
+        {
+            "key": "Cooling",
+            "value": "NZXT Z73"
+        },
+        {
+            "key": "Case",
+            "value": "NZXT H7 Flow"
+        }
+    ],
+    "SETUP_PHOTOS": [
+        "images/minami.jpg",
+        "images/yume.jpg",
+        "images/setup2.jpg",
+        "images/setup3.jpg",
+        "images/setup4.jpg",
+        "images/venom_back.jpg",
+        "images/ultimatelineups.jpg"
+    ],
+    "GAMES_DATA": [
+        {
+            "name": "Krunker.io",
+            "settings": [
+                {
+                    "label": "Sensitivity X",
+                    "value": "0.35"
+                },
+                {
+                    "label": "Sensitivity Y",
+                    "value": "0.35"
+                },
+                {
+                    "label": "Aim Sensitivity X",
+                    "value": "0.3"
+                },
+                {
+                    "label": "Aim Sensitivity Y",
+                    "value": "0.3"
+                },
+                {
+                    "label": "DPI",
+                    "value": "800"
+                },
+                {
+                    "label": "FOV",
+                    "value": "90"
+                }
+            ]
+        },
+        {
+            "name": "VALORANT",
+            "settings": [
+                {
+                    "label": "Sensitivity",
+                    "value": "0.43"
+                },
+                {
+                    "label": "Aim Sensitivity",
+                    "value": "0.7"
+                },
+                {
+                    "label": "DPI",
+                    "value": "800"
+                },
+                {
+                    "label": "Raw Mouse input",
+                    "value": "OFF"
+                }
+            ]
+        }
+    ]
+}
