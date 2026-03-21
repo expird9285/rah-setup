@@ -75,7 +75,7 @@
         {
             "category": "mice",
             "brand": "Endgame Gear",
-            "name": "OP1 8K",
+            "name": "OP1 8K V2",
             "image": "images/op18k.png",
             "link": "",
             "size": "standard",
@@ -206,11 +206,11 @@
         },
         {
             "category": "av",
-            "brand": "Samsung",
-            "name": "Odyssey G5 (32\")",
+            "brand": "MSI",
+            "name": "MAG 401QR",
             "desc": "LS32CG554",
-            "image": "images/g5.png",
-            "link": "https://www.samsung.com/sec/monitors/gaming-ls32cg554ekxkr-d2c/LS32CG554EKXKR/",
+            "image": "",
+            "link": "https://www.msi.com/Monitor/MAG401QR/Overview",
             "size": "standard"
         },
         {
